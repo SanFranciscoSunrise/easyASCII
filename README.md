@@ -41,14 +41,14 @@ Known Issues/ToDo:
 
 [*] Please feel free to generate and submit your own font files.  Just 
     email them over to me at SanFranciscoSunrise@Gmail.Com.  It should be 
-    self explanatory what the format is but in case it's not here goes.  
+    self explanatory what the format is but in case it's not here goes. 
     Characters at the top line are read in and indexed.  anything between a 
     set of " " quotes is the translation you have drawn for the character 
     corresponding to the index of those quotes in relation to the number of 
     previous quotes. Thus if the top line is F 6 % the characters 
-    representation in ASCII will be between the rows of quotes as such 
+    representation in ASCII will be between the rows of quotes as such:
 
-    " " F " " 6 " " % " "
+    " " F " " 6 " " % "
 
     Two caviats are that there must be an initial " single quote at the 
     start of each row and as of now exactly 7 rows at most.  If you would  
