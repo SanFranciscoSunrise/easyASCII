@@ -48,7 +48,7 @@ Known Issues/ToDo:
     previous quotes. Thus if the top line is F 6 % the characters 
     representation in ASCII will be between the rows of quotes as such 
 
-    " " F " " 6 " " % " 
+    " " F " " 6 " " % " "
 
     Two caviats are that there must be an initial " single quote at the 
     start of each row and as of now exactly 7 rows at most.  If you would  
