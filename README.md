@@ -10,7 +10,7 @@
 
 #####Author/s: SanFranciscoSunrise (SanFranciscoSunrise@GMail.Com)
 
-#####Running: Simply 
+#####Running: Simply download the rep with "git clone https://github.com/SanFranciscoSunrise/easyASCII" then make sure easyASCII.py is executable and run it as such "./easyASCII --help" for usage instructions.
 
 #####About the source code:
 This program is very simple yet powerful and I hope helpful to those of you who like to write cover pages and other documents in various asciiformats.  I eventually plan to place it into some sort of GNU/GPL but fornow just know that it is free to spread given that you reatain credit to me and any others who may contribute in the future.
