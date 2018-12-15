@@ -10,6 +10,8 @@
 
 #####Author/s: SanFranciscoSunrise (SanFranciscoSunrise@GMail.Com)
 
+#####Running: Simply 
+
 #####About the source code:
 This program is very simple yet powerful and I hope helpful to those of you who like to write cover pages and other documents in various asciiformats.  I eventually plan to place it into some sort of GNU/GPL but fornow just know that it is free to spread given that you reatain credit to me and any others who may contribute in the future.
 
@@ -23,15 +25,9 @@ Convert string text into BIG ASCII formats.  Utilize easy to create font files t
 
 [-]  Need a better way to implement symbols such as !@#$%^&*()_+=-`~/.,[]{}:"<>?.  Currently about 2/3 of them can be implemented into the font file directly but about 2/3 of those seem to need quotes around the phrase for them to print out without an error, which leaves an odd situation for quotes themselves.  The other 1/3 seem  to crash the program with or without quotes.  Fixing this would be a major help towards placing the program into it's first official release.
 
-[*]  Please feel free to generate and submit your own font files.  Just email them over to me at SanFranciscoSunrise@Gmail.Com.  It should be self explanatory what the format is, referr to asciiCharacters.ezfnt for an example of a font set I have created that works with this program.
+[*]  Please feel free to generate and submit your own font files.  Just email them over to me at SanFranciscoSunrise@Gmail.Com.  It should be self explanatory what the format is, referr to asciiCharacters.ezfnt for an example of a font set I have created that works with this program, copy it, paste it, and alter to your liking.
 
-
-But in case this example is not self explanatory here is a verbal explanation. Characters at the top line are read in and indexed.  anything between a set of " " quotes is the translation you have drawn for the character corresponding to the index of those quotes in relation to the number of previous quotes. Thus if the top line is F 6 % the characters representation in ASCII will be between the rows of quotes as such:
-
-     " " F " " 6 " " % "
-
-Two caviats are that there must be an initial " single quote at the start of each row and as of now 7 rows of characters to draw out each individual ASCII character and no more.  If you would like to use less then 7 rows just fit your characters into the bottom few rows or somewhere in the middle.  If you are truly confused just copy one of the sample font files and alter the text within them to your liking.  And yes there is the flexibility to do some seriously screwy things like make a backwards and/or random alphabet cipher by reversing and/or randomizing the order of the characters in the top row.
-
+Two caviats are that there must be an initial " single quote at the start of each row and as of now 7 rows of characters to draw out each individual ASCII character and no more.  If you would like to use less then 7 rows just fit your characters into the bottom few rows or somewhere in the middle.
 #####Version History:
 [+] Beta 1 : 08/17/2015 : First public release.  Let the cross-platform testing begin.
 
