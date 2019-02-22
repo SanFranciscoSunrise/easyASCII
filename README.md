@@ -12,7 +12,7 @@
 
 # Running: 
 
-Simply download the rep with "git clone https://github.com/SanFranciscoSunrise/easyASCII" then make sure easyASCII.py is executable and run it as such "./easyASCII --help" for usage instructions.
+Simply download the repo with "git clone https://github.com/SanFranciscoSunrise/easyASCII" then make sure easyASCII.py is executable and run it as such "./easyASCII --help" for usage instructions.
 
 # About the source code:
 
