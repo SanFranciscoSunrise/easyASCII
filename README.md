@@ -8,17 +8,22 @@
   **  ** 
 ```
 
-#####Author/s: SanFranciscoSunrise (SanFranciscoSunrise@GMail.Com)
+**Author/s: SanFranciscoSunrise (SanFranciscoSunrise@GMail.Com)**
 
-#####Running: Simply download the rep with "git clone https://github.com/SanFranciscoSunrise/easyASCII" then make sure easyASCII.py is executable and run it as such "./easyASCII --help" for usage instructions.
+# Running: 
 
-#####About the source code:
+Simply download the rep with "git clone https://github.com/SanFranciscoSunrise/easyASCII" then make sure easyASCII.py is executable and run it as such "./easyASCII --help" for usage instructions.
+
+# About the source code:
+
 This program is very simple yet powerful and I hope helpful to those of you who like to write cover pages and other documents in various asciiformats.  I eventually plan to place it into some sort of GNU/GPL but fornow just know that it is free to spread given that you reatain credit to me and any others who may contribute in the future.
 
-#####About the program:
+# About the program:
+
 Convert string text into BIG ASCII formats.  Utilize easy to create font files to select a font.  Run your text output vertically, horizontally, or word-per-line.  Output to a file.
 
-#####Known Issues/ToDo:
+# Known Issues/ToDo:
+
 [-] = Known Issue, [*] = Todo, [+] = Done
 
 [-]  Still need to implement some sort of decision process with regaurds to file output. Giving the choice to append or overwrite a file that already exists.  It is currently just stuck in append mode (not such a bad thing given the the choice of the two).
